@@ -1,0 +1,28 @@
+.page {
+  padding: 16px 16px 96px 16px;
+}
+.section-container {
+  padding: 16px;
+  background: #ffffff;
+  border-radius: 8px;
+  margin-bottom: 24px;
+}
+.zaui-list-item {
+  cursor: pointer;
+}
+body {
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+  height: 100%;
+  overflow-x: hidden;
+  font-size: 1.15rem;
+  background-image: url("https://divaxi.github.io/dummy/main-background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
